@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lois and Young-Jo's 20th Wedding Anniversary</title>
+  <!-- Add your custom CSS here -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <h1>Lois and Young-Jo's 20th Wedding Anniversary</h1>
+  </header>
+
+  <!-- Navigation -->
+  <nav>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#their-story">Their Story</a></li>
+      <!-- Add other navigation links here -->
+    </ul>
+  </nav>
+
+  <!-- Home Section -->
+  <section id="home">
+    <h2>Welcome to our 20th Anniversary Celebration!</h2>
+    <img src="lois-youngjo.jpg" alt="Lois and Young-Jo">
+    <p>We are excited to celebrate our 20 years of love, friendship, and adventure with you.</p>
+    <!-- Countdown timer code here -->
+  </section>
+
+  <!-- Their Story Section -->
+  <section id="their-story">
+    <h2>Their Story</h2>
+    <p>Lois and Young-Jo first met in the summer of 2001 at a friend's party. Their connection was instant, and they began dating shortly after. They got engaged in 2002 during a romantic trip to Paris and were married on March 16, 2003.</p>
+
+    <h3>Timeline</h3>
+    <ul>
+      <li>
+        <h4>2001</h4>
+        <p>Lois and Young-Jo meet and start dating.</p>
+      </li>
+      <li>
+        <h4>2002</h4>
+        <p>Young-Jo proposes to Lois in Paris.</p>
+      </li>
+      <li>
+        <h4>2003</h4>
+        <p>They tie the knot in a beautiful ceremony surrounded by friends and family.</p>
+      </li>
+      <!-- Add more timeline events here -->
+    </ul>
+  </section>
+
+  <!-- Add other sections (Photo Gallery, Anniversary Celebration Details, etc.) here -->
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2023 Lois and Young-Jo's 20th Wedding Anniversary. All rights reserved.</p>
+  </footer>
+</body>
+</html>
